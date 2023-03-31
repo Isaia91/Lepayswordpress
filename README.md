@@ -8,4 +8,10 @@ Une fois le fichier dans le xamp et la bdd installé
 Rendez vous sur le navigateur
   rentrer dans la barre de recherhe :http://localhost/lepays/
   
+  
+  Si vous voulez avoir les acces admin : http://localhost/lepays/admindujournal
+    id sont admin
+    mdp:admin
+  
+  
   Et vous voilas sur le site
