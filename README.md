@@ -10,7 +10,7 @@ Rendez vous sur le navigateur
   
   
   Si vous voulez avoir les acces admin : http://localhost/lepays/admindujournal
-    id sont admin
+    id:admin
     mdp:admin
   
   
